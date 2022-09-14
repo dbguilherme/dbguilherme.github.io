@@ -1,5 +1,5 @@
 ---
-title: "Topics in Data processing"
+title: "Topics on Data processing"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1

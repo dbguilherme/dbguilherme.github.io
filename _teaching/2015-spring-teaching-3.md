@@ -1,5 +1,5 @@
 ---
-title: "Information Retreival"
+title: "Topics on Information Retrieval"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
