@@ -87,7 +87,7 @@ author:
   employer         : "UFFS"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=XDxVfHMAAAAJ"
-  email            : "guilherme.dalbianco at uffs.edu.br" 
+  email            : "guilherme.dalbianco@uffs.edu.br" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dbguilherme@gmail.com"
+  github           : "https://github.com/dbguilherme/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/guilherme-dal-bianco-3a888858/" 
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
